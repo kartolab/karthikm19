@@ -4,7 +4,7 @@ Certified OutSystems Developer & Full-Stack PHP Developer, building for the web 
 
 ### ⚡️ What I do
 
-    👨🏽‍💻 Software Engineering Specialist at British Telecom
+    👨🏽‍💻 Software Engineering Specialist at [British Telecom](http://bt.com "British Telecom")
 
 ### ⚡️ More about me
 
@@ -12,6 +12,6 @@ Certified OutSystems Developer & Full-Stack PHP Developer, building for the web 
 
     💬 Ask me anything about Software Engineering, Design, UX, PHP and OutSystems (lowcode)
 
-    📫 How to reach me: - Twitter: @karthikz819
+    📫 How to reach me: - Twitter: [@karthikz819](https://twitter.com/karthikz819 "@karthikz819")
 
     ⚡ Fun fact: I love cricket & badminton
