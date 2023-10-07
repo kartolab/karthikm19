@@ -9,5 +9,6 @@ Certified OutSystems Developer & Full-Stack PHP Developer, building for the web 
 
 - 🌱 I’m currently learning ReacJS, MongoDB with Heroku and Firebase.
 - 💬 Ask me anything about Software Engineering, Design, UX, PHP and OutSystems (lowcode)
+- 📹 YouTube: [@karthik-sfp](https://www.youtube.com/channel/UChJgCk1VhAa-8SULRIx-L5g)
 - 📫 How to reach me: - Twitter: [@karthikz819](https://twitter.com/karthikz819 "@karthikz819")
 - ⚡ Fun fact: I love cricket & badminton
